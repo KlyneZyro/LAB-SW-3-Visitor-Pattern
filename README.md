@@ -40,3 +40,4 @@ Test your codes before the given client program:
 Upload your GitHub solution link here.
 
 Include the problem scenario and the UML diagram in the readMe file.
+<img width="5496" height="2606" alt="Visitor Design Pattern UML (1)" src="https://github.com/user-attachments/assets/a8b2edae-06ad-4e9e-856a-10183c6f7094" />
